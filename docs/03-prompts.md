@@ -118,5 +118,13 @@ MAIS SOBRE ([Few shot Prompts](https://hub.asimov.academy/tutorial/zero-one-e-fe
 ```
 
 ---
+### Observações e Aprendizados
 
+**Registre aqui ajustes que você fez nos prompts e por quê.**
+
+• Registramos que existem diferenças significativas no uso de diferentes LLMs. Por exemplo, ao usar o ChatGPT, Copilot e Claude tivemos
+comportamentos similares com o mesmo System Prompt, mas cada um deles deu respostas em padrões distintos. Na prática, todos se
+sairam bemr mas o ChatGPT se perdeu Edge Case de "Pergunta fora do escopo" (Qual a previsão do tempo para amanhã?).
+
+• 
 
