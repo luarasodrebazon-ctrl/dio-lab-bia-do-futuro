@@ -5,7 +5,7 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-Uma IA que eduque a respeito de saude financeira. 
+Uma IA que eduque a respeito de saude financeira e investimentos.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
