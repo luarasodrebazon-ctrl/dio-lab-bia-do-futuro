@@ -5,18 +5,18 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-Uma IA que sirva para executar planejamento financeiro de projetos corporativos.
+Uma IA que eduque a respeito de saude financeira. 
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-O agente decide qual metodologia usar e transforma o caso em um passo a passo dentro de um projeto.
+O agente decide qual metodologia usar e transforma o caso em um passo a passo.
 
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-Corporações que procurem auxiliar seus analistas financeiros. 
+Corporações que procurem auxiliar seus analistas financeiros.
 
 ---
 
