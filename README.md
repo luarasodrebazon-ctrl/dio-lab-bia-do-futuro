@@ -77,6 +77,6 @@ Testes realizados com 4 cenários principais: consulta de gastos, recomendação
 
 ## 👩‍💻 Autora
 
-**Luara Sodré Bazon** — [LinkedIn](https://www.linkedin.com/in/luarasodrebazon) · [GitHub](https://github.com/luarasodrebazon-ctrl)
+**Luara Sodré Bazon** — [LinkedIn](https://www.linkedin.com/in/luara-s-155a46153/) · [GitHub](https://github.com/luarasodrebazon-ctrl)
 
 > Projeto desenvolvido para o laboratório DIO — Bia do Futuro.
