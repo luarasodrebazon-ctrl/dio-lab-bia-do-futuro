@@ -6,6 +6,9 @@ Luna é um agente conversacional educador financeiro que utiliza dados reais do 
 
 Desenvolvido como projeto prático do lab DIO, com foco em design de agentes, engenharia de prompts e boas práticas de anti-alucinação.
 
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/e76e33ad-1f91-4a80-96db-8b65e2f6040d" />
+
+
 ---
 
 ## 🎯 Caso de Uso
@@ -20,24 +23,10 @@ Desenvolvido como projeto prático do lab DIO, com foco em design de agentes, en
 
 ## 🧠 Arquitetura
 
-```
-Cliente
-  │
-  ▼
-Interface (Streamlit)
-  │
-  ▼
-LLM — Ollama (local)
-  │
-  ├──► Base de Conhecimento (JSON + CSV)
-  │         perfil_investidor · transacoes · produtos_financeiros · historico_atendimento
-  │
-  ▼
-Validação anti-alucinação
-  │
-  ▼
-Resposta ao Cliente
-```
+
+<img width="1440" height="1040" alt="image" src="https://github.com/user-attachments/assets/18069d34-fd4e-4519-83ba-eeb7f7308393" />
+
+
 
 | Componente | Tecnologia |
 |---|---|
