@@ -52,7 +52,8 @@ Resposta ao Cliente
 
 ```
 dio-lab-bia-do-futuro/
-├── app.py                        # Aplicação principal (Streamlit)
+├── src/
+│   └── app.py                    # Aplicação principal (Streamlit)
 ├── requirements.txt              # Dependências Python
 ├── data/
 │   ├── perfil_investidor.json    # Perfil e metas do cliente
