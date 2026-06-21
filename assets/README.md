@@ -1,8 +1,9 @@
 # Assets
 
-Esta pasta é destinada a recursos visuais do seu projeto:
+<img width="1440" height="1040" alt="image" src="https://github.com/user-attachments/assets/a4d3f2ad-95ac-451e-aa2f-267e384e7a8e" />
 
-- Diagramas de arquitetura
-- Screenshots da aplicação
-- Mockups de interface
-- Imagens para o README
+
+<img width="1900" height="984" alt="image" src="https://github.com/user-attachments/assets/7162a558-e7f7-428d-9023-9d4acb789abe" />
+
+
+
