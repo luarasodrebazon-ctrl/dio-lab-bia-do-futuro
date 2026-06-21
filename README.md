@@ -77,24 +77,19 @@ dio-lab-bia-do-futuro/
 - [Ollama](https://ollama.com/) instalado e rodando localmente
 - Modelo baixado no Ollama (ex: `GPT.OSS`)
 
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/luarasodrebazon-ctrl/dio-lab-bia-do-futuro.git
-cd dio-lab-bia-do-futuro
-```
-
-### 2. Instale as dependências
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Suba o modelo no Ollama
+### 1. Instalar Ollama
 
 ```bash
 ollama pull gpt.oss
 ollama serve
+```
+### 2. Instalar dependencias
+```
+pip install streamlit pandas requests
+```
+### 3. Rodar a Luna
+```
+streamlit run src/app.py
 ```
 
 > Certifique-se de que o Ollama está rodando em `http://localhost:11434` antes de iniciar a aplicação.
